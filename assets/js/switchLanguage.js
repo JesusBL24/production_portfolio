@@ -333,7 +333,7 @@ const translations = {
         'nav_contact': 'Contact me',
 
         //HOME
-        "home_roles": 'Producer and Technical Designer',
+        "home_roles": 'Producer & Technical Designer',
         "home_description": 'Working in-engine to build prototypes, iterating over them, and scaling their systems is my passion; creating the best gameplay experience is my objective.',
         "home_eslogan": '\'Handcrafted Experiences, Loop by Loop\'',
 
@@ -421,10 +421,10 @@ const translations = {
         'el_coco_Team Size':'<strong>Team Size:</strong> 10</li>',
         'el_coco_Engine':'<strong>Engine:</strong> Unity (C#)</li>',
         'el_coco_role': '<strong>Role:</strong> Game Designer & Producer',
-        'el_coco_lead':'Led the team to a successful launch by establishing an iterative design pipeline focused on player-centered objectives.',
-        'el_coco_systems': 'Created a fast-paced roguelike, improving player retention by iterating on the core gameplay loop based in various challenges and power-ups, enhancing feel and player decisions.',
-        'el_coco_enemies': 'Implemented 20+ levels and encounters, gathering feedback from playtesters to enhance clarity and balance both player and enemy progression.',
-        'el_coco_narrative': 'Co-created the narrative with professional assistance to build a consistent world and characters that reinforce the game\'s immersion.',
+        'el_coco_lead':'<strong>Pipeline & Delivery</strong>: Coordinated cross-functional teams toward a successful commercial launch on schedule by establishing an iterative production pipeline and tracking milestone deliverables.',
+        'el_coco_systems': '<strong>Scope & Feature Management</strong>: Managed the development lifecycle and iteration cycles for core gameplay systems, balancing feature additions (power-ups, progression loops) with project scope and player retention targets.',
+        'el_coco_enemies': '<strong>QA & Backlog Prioritization</strong>: Oversaw the content pipeline for 20+ levels, coordinating structured playtests and translating player feedback into prioritized backlog tasks to refine game balance and clarity.',
+        'el_coco_narrative': '<strong>External & Cross-Departmental Coordination</strong>: Facilitated collaboration between design, art, and audio teams, managing workflows with external narrative professionals to ensure on-time delivery of world-building assets.',
         'el_coco_platforms': 'Platforms: Available on PS5, PS4, Xbox One, Xbox Series X|S, Nintendo Switch, and Steam.',
 
         'bratz_description':'Rule the runway and take the stage with the Bratz Pack! Customize fierce fashions, groove to songs from the Bratz Universe like ‘So Good’, and jet off to iconic cities. <br>Outshine mean Burdine and the Tweevil Twins in epic fashion battles—solo or with friends.',
