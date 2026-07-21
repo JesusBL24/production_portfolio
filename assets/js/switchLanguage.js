@@ -436,7 +436,7 @@ const translations = {
         'bratz_Type': ' <strong>Type:</strong> Easy, Family',
         'bratz_Team Size':'<strong>Team Size:</strong>8',
         'bratz_Engine':'<strong>Engine:</strong> Unity (C#)',
-        'bratz_role': '<strong>Role:</strong>Post-Launch Producer',
+        'bratz_role': '<strong>Role:</strong> Post-Launch Producer',
         'project_bratz_info1':'<strong>Post-Launch Production</strong>: Managed post-launch production, update pipelines, and milestone delivery for a major international IP across multiple console platforms and Steam.',
         'project_bratz_info2':'<strong>Stakeholder Management</strong>: Led production meetings and established direct communication channels with external clients, publishers, and stakeholders.',
         'project_bratz_updates':'<strong>Task Execution & Blocker Removal</strong>: Achieved 100% of project objectives within strict deadlines by proactively managing task backlogs, removing daily technical/creative blockers, and conducting feature testing.',
@@ -446,7 +446,7 @@ const translations = {
 
         'magefall_description': 'Magefall is my current project—originally conceived as my bachelor’s thesis—where I apply advanced design principles by developing a game from scratch into an in-engine prototype using professional frameworks. Furthermore, I am using Unreal Engine 5 and Blueprints to deepen in engine feature and improve my technical design skills.',
         'magefall_title': 'Magefall: An Action-Adventure Game Prototype <br>(Personal Project, Ongoing)',
-        'project_magefall_1': '<strong>Game & Technical Designer</strong>',
+        'project_magefall_1': '<strong> Game & Technical Designer</strong>',
         'project_magefall_2': 'Developing gameplay systems centered on spells, weaponry, and mission structures, validated through target audience playtesting and implemented via professional design frameworks.',
         'project_magefall_3': 'Conducted in-depth research into iterative design and advanced game systems—praised from university faculty—by analyzing the workflows of industry-leading professional designers.',
         'project_magefall_4': 'Ensuring rapid iteration and mitigating risk by using paper prototyping to simplify complex mechanics and filter out non-viable features early in development.',
