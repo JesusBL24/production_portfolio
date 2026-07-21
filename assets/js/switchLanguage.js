@@ -233,10 +233,10 @@ const translations = {
 
         'magefall_title': 'Magefall: Prototipo de juego de Acción-Aventura <br>(Proyecto Personal, Actualidad)',
         'project_magefall_1': '<strong>Diseñador de Gameplay y Técnico</strong>',
-        'project_magefall_2': 'Desarrollando sistemas de juego centrados en hechizos, armamento y estructuras de misiones, validados mediante playtesting con el público objetivo e implementados a través de frameworks de diseño profesionales.',
-        'project_magefall_3': 'Realicé una investigación profunda sobre diseño iterativo y sistemas avanzados de juego, elogiada por el tribunal universitario, mediante el análisis de los flujos de trabajo de diseñadores profesionales líderes en la industria.',
-        'project_magefall_4': 'He garantizado de una iteración rápida y mitigación de riesgos mediante el uso de prototipado en papel para simplificar mecánicas complejas y descartar funciones no viables en etapas tempranas del desarrollo.',
-        'project_magefall_5': 'He maximizado el valor de cada ciclo de desarrollo siguiendo un proceso iterativo centrado en la resolución de problemas, prototipado rápido, pruebas y documentación.',
+        'project_magefall_2': '<strong>Diseño de Sistemas Modulares</strong>: Desarrollé los sistemas principales de juego (hechizos, armamento y estructura de misiones), validando las decisiones de diseño mediante pruebas con el público objetivo y marcos de trabajo profesionales.',
+        'project_magefall_3': '<strong>Investigación y Excelencia Académica</strong>: Realicé una investigación profunda sobre diseño iterativo y sistemas de juego —alabada con máximas calificaciones por el tribunal universitario— analizando flujos de trabajo de referentes de la industria.',
+        'project_magefall_4': '<strong>Prototipado y Mitigación de Riesgos</strong>: Mitigué riesgos de producción y aceleré las iteraciones utilizando prototipado en papel para simplificar mecánicas complejas y descartar funcionalidades no viables en fases tempranas.',
+        'project_magefall_5': '<strong>Proceso Iterativo y Documentación</strong>: Maximicé la eficiencia de cada ciclo de desarrollo mediante un proceso iterativo centrado en prototipado rápido, pruebas continuas, resolución de problemas y documentación estructurada (GDDs y One-Pagers).',
         'project_magefall_6': 'Llevé a cabo sesiones de playtesting para identificar y evaluar problemas y fortalezas.',
         'project_magefall_7': 'Redacté documentación clara y versátil, incluyendo un GDD, briefs de proyecto y one-pagers.',
 
@@ -446,11 +446,11 @@ const translations = {
 
         'magefall_description': 'Magefall is my current project—originally conceived as my bachelor’s thesis—where I apply advanced design principles by developing a game from scratch into an in-engine prototype using professional frameworks. Furthermore, I am using Unreal Engine 5 and Blueprints to deepen in engine feature and improve my technical design skills.',
         'magefall_title': 'Magefall: An Action-Adventure Game Prototype <br>(Personal Project, Ongoing)',
-        'project_magefall_1': '<strong> Game & Technical Designer</strong>',
-        'project_magefall_2': 'Developing gameplay systems centered on spells, weaponry, and mission structures, validated through target audience playtesting and implemented via professional design frameworks.',
-        'project_magefall_3': 'Conducted in-depth research into iterative design and advanced game systems—praised from university faculty—by analyzing the workflows of industry-leading professional designers.',
-        'project_magefall_4': 'Ensuring rapid iteration and mitigating risk by using paper prototyping to simplify complex mechanics and filter out non-viable features early in development.',
-        'project_magefall_5': 'Maximizing the value of every development cycle by following an iterative process focused on problem-solving, rapid prototyping, testing and documenting.',
+        'project_magefall_1': '<strong>Game & Technical Designer</strong>',
+        'project_magefall_2': '<strong>Modular System Design</strong>: Developed core gameplay systems (spells, weaponry, mission structures), validating design choices through target audience playtesting and professional design frameworks.',
+        'project_magefall_3': '<strong>Research & Academic Excellence</strong>: Conducted in-depth research into iterative design and advanced game systems—earning top honors from university faculty—by analyzing industry-leading production and design workflows.',
+        'project_magefall_4': '<strong>Prototyping & Risk Mitigation</strong>: Mitigated production risk and accelerated iteration by leveraging paper prototyping to simplify complex mechanics and filter out non-viable features early in development.',
+        'project_magefall_5': '<strong>Iterative Process & Documentation</strong>: Maximized cycle efficiency by driving an iterative process focused on rapid prototyping, continuous testing, problem-solving, and structured documentation (GDDs & One-Pagers).',
 
         'SCR3D_description':'A brand-new spaceship hero shooter where you choose your character, customize your weapons, and fight your rivals to dominate the Arena. Each game is a \'best-of-three\' match where you level up your ship to unlock powerful boosters and signature abilities.',
         'SCR3D_1':'<strong> PvP Game Designer & Narrative Designer.</strong',
