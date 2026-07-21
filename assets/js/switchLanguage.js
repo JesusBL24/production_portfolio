@@ -123,7 +123,7 @@ const translations = {
         'nav_contact': 'Contacto',
 
         //HOME
-        "home_roles": 'Diseñador Técnico y de Mecánicas',
+        "home_roles": 'Productor y Diseñador Técnico',
         "home_description": 'Usar motores para desarrollar prototipos, iterar sobre ellos y escalar sus sistemas es mi pasión; crear la mejor experiencia de juego es mi objetivo',
         "home_eslogan": '\'Forjando experiencias, ciclo a ciclo.\'',
 
@@ -333,7 +333,7 @@ const translations = {
         'nav_contact': 'Contact me',
 
         //HOME
-        "home_roles": 'Mechanics and Technical Designer',
+        "home_roles": 'Producer and Technical Designer',
         "home_description": 'Working in-engine to build prototypes, iterating over them, and scaling their systems is my passion; creating the best gameplay experience is my objective.',
         "home_eslogan": '\'Handcrafted Experiences, Loop by Loop\'',
 
