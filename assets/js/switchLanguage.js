@@ -207,7 +207,7 @@ const translations = {
         'el_coco_description':'EL COCO es un juego roguelike de acción que te sumerge en un mundo de sueños, recuerdos rotos y pesadillas encarnadas. Desciende a Lo Incierto, un lugar tan extraño como peligroso, y lucha por recuperar lo que perdiste… si es que puedes confiar en quien te guía.',
         'el_coco_Genre':'<strong>Género:</strong> Rogue-lite de acción',
         'el_coco_Type': ' <strong>Tipo:</strong> Retos, Cámara picada',
-        'el_coco_Team Size':'<strong>Tamaño del equipo:</strong> 10<',
+        'el_coco_Team Size':'<strong>Tamaño del equipo:</strong> 10',
         'el_coco_Engine':'<strong>Motor:</strong> Unity (C#)',
         'el_coco_role': '<strong>Rol</strong>: Diseñador PvP y Productor',
         'el_coco_lead':'<strong>Gestión de Pipeline e Hitos</strong>: Coordiné equipos multidisciplinares para alcanzar un lanzamiento comercial multiplataforma en los plazos previstos, estableciendo un pipeline de producción iterativo y haciendo seguimiento riguroso de los hitos de entrega (milestones).',
@@ -239,6 +239,12 @@ const translations = {
         'project_magefall_5': '<strong>Proceso Iterativo y Documentación</strong>: Maximicé la eficiencia de cada ciclo de desarrollo mediante un proceso iterativo centrado en prototipado rápido, pruebas continuas, resolución de problemas y documentación estructurada (GDDs y One-Pagers).',
         'project_magefall_6': 'Llevé a cabo sesiones de playtesting para identificar y evaluar problemas y fortalezas.',
         'project_magefall_7': 'Redacté documentación clara y versátil, incluyendo un GDD, briefs de proyecto y one-pagers.',
+
+        'VR_title': 'Spaceship Commander VR Simulator',
+        'project_VR_1': '<strong>Desarrollador y Diseñador VR</strong>',
+        'project_VR_2': '<strong>Prototipado VR y Lógica de Simulación</strong>\': Diseñé y programé un prototipo interactivo de simulación táctica en 3D para Realidad Virtual, implementando control de entidades en tiempo real, creación dinámica de escenarios y lógica de reconocimiento de gestos en Unity (C#).',
+        'project_VR_3': '<strong>Frameworks XR y Usabilidad</strong>\': Utilicé el XR Interaction Toolkit para construir modelos de interacción intuitivos en VR, ejecutando pruebas de usabilidad para optimizar la comodidad del usuario, la tasa de refresco y el rendimiento computacional.',
+        'project_VR_4': '<strong>Ejecución Autónoma y Pipeline VR</strong>\': Ejecuté el ciclo de vida completo del proyecto de forma individual desde el concepto hasta el prototipo funcional en VR, demostrando capacidad de autogestión y un conocimiento práctico del pipeline de desarrollo inmersivo.',
 
         'SCR3D_description':'Un nuevo hero shooter de naves espaciales en el que eliges a tu personaje, personalizas tus armas y luchas contra tus rivales para dominar la Arena. Cada partida es un encuentro al mejor de tres, donde subes de nivel tu nave para desbloquear potentes mejoras y habilidades especiales.',
         'SCR3D_1':'<strong> Diseñador PvP y narrativo.</strong>',
@@ -451,6 +457,14 @@ const translations = {
         'project_magefall_3': '<strong>Research & Academic Excellence</strong>: Conducted in-depth research into iterative design and advanced game systems—earning top honors from university faculty—by analyzing industry-leading production and design workflows.',
         'project_magefall_4': '<strong>Prototyping & Risk Mitigation</strong>: Mitigated production risk and accelerated iteration by leveraging paper prototyping to simplify complex mechanics and filter out non-viable features early in development.',
         'project_magefall_5': '<strong>Iterative Process & Documentation</strong>: Maximized cycle efficiency by driving an iterative process focused on rapid prototyping, continuous testing, problem-solving, and structured documentation (GDDs & One-Pagers).',
+
+
+        'VR_title': 'Spaceship Commander VR Simulator',
+        'project_VR_1': '<strong>VR Developer & Designer</strong>',
+        'project_VR_2': '<strong>VR Prototyping & Core Logic</strong>: Designed and programmed an interactive 3D tactical simulation prototype in VR, implementing real-time entity controls, dynamic scenario creation, and gesture recognition logic in Unity (C#).',
+        'project_VR_3': '<strong>XR Frameworks & Usability</strong>: Leveraged the XR Interaction Toolkit to establish intuitive VR interaction models, conducting targeted usability testing to optimize user comfort, refresh rates, and computational performance.',
+        'project_VR_4': '<strong>Autonomous Execution & VR Pipeline</strong>: Executed the complete development lifecycle individually from concept to a fully functional VR prototype, demonstrating self-management, technical problem-solving, and a deep understanding of immersive pipelines.',
+
 
         'SCR3D_description':'A brand-new spaceship hero shooter where you choose your character, customize your weapons, and fight your rivals to dominate the Arena. Each game is a \'best-of-three\' match where you level up your ship to unlock powerful boosters and signature abilities.',
         'SCR3D_1':'<strong> PvP Game Designer & Narrative Designer.</strong',
