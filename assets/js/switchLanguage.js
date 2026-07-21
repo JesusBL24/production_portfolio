@@ -217,11 +217,15 @@ const translations = {
         'el_coco_platforms': 'Plataformas: Disponible en PS5, PS4, Xbox One, Xbox Series X|S, Nintendo Switch y Steam.',
 
         'bratz_description':'¡Domina la pasarela y súbete al escenario con el Bratz Pack! Personaliza estilos rompedores, baila al ritmo de canciones del Universo Bratz como \'So Good\' y viaja a ciudades icónicas. Supera a la malvada Burdine Maxwell y a las gemelas Tweevil en épicas batallas de moda, ya sea en solitario o con amigos.',
-        'project_bratz_role': '<strong>Productor post-lanzamiento</strong>',
-        'project_bratz_info1':'Mejoré la comunicación interna liderando reuniones y estableciendo canales de comunicación directos con los stakeholders.',
-        'project_bratz_info2':'Cumplí con los objetivos dentro de los plazos establecidos mediante la gestión proactiva de metas y tareas, la eliminación de bloqueos (blockers) y la prueba de elementos del juego.',
-        'project_bratz_updates': 'Gestión de actualizaciones post-lanzamiento.',
-        'project_bratz_info': 'Los demás detalles del proyecto están sujetos a un acuerdo de confidencialidad (NDA).',
+        'bratz_Genre':'<strong>Género:</strong> Ritmo, Diseño de moda</li>',
+        'bratz_Type': ' <strong>Tipo:</strong> Fácil, Para toda la familia</li>',
+        'bratz_Team Size':'<strong>Tamaño del equipo:</strong>8</li>',
+        'bratz_Engine':'<strong>Motor:</strong> Unity (C#)</li>',
+        'bratz_role': '<strong>Rol:</strong>Post-Launch Producer',
+        'project_bratz_info1':'<strong>Producción Post-Lanzamiento</strong>: Gestioné la producción post-lanzamiento, los pipelines de actualización y la entrega de hitos para una IP internacional de gran escala en múltiples consolas y Steam.Producción Post-Lanzamiento: Gestioné la producción post-lanzamiento, los pipelines de actualización y la entrega de hitos para una IP internacional de gran escala en múltiples consolas y Steam.',
+        'project_bratz_info2':'<strong>Gestión de Stakeholders</strong>: Lideré reuniones de seguimiento de producción y mantuve canales directos de comunicación con clientes externos, publishers y partes interesadas.',
+        'project_bratz_updates':'<strong>Ejecución y Resolución de Bloqueos</strong>: Cumplí el 100% de los objetivos del proyecto en plazos estrictos mediante la gestión proactiva del backlog, la eliminación diaria de bloqueos técnicos/creativos y el testing de funcionalidades.',
+        'project_bratz_nda': '<strong>Los demás detalles del proyecto están sujetos a un acuerdo de confidencialidad (NDA).</strong>',
 
         'experience_personal': 'Proyectos personales',
 
@@ -428,11 +432,15 @@ const translations = {
         'el_coco_platforms': 'Platforms: Available on PS5, PS4, Xbox One, Xbox Series X|S, Nintendo Switch, and Steam.',
 
         'bratz_description':'Rule the runway and take the stage with the Bratz Pack! Customize fierce fashions, groove to songs from the Bratz Universe like ‘So Good’, and jet off to iconic cities. <br>Outshine mean Burdine and the Tweevil Twins in epic fashion battles—solo or with friends.',
-        'project_bratz_role': '<strong>Post-Launch Producer.</strong>',
-        'project_bratz_info1':'Improved team communication by leading meetings and establishing communication channels with stakeholders.',
-        'project_bratz_info2':'Achieved all objectives within deadlines by proactively managing team goals and tasks, removing blockers and testing features.',
-        'project_bratz_updates':'Managed post-launch updates.',
-        'project_bratz_info': 'Further details are subject to a Non-Disclosure Agreement (NDA).',
+        'bratz_Genre':'<strong>Genre:</strong> Rhythm, Fashion design</li>',
+        'bratz_Type': ' <strong>Type:</strong> Easy, Family</li>',
+        'bratz_Team Size':'<strong>Team Size:</strong>8</li>',
+        'bratz_Engine':'<strong>Engine:</strong> Unity (C#)</li>',
+        'bratz_role': '<strong>Role:</strong>Post-Launch Producer',
+        'project_bratz_info1':'<strong>Post-Launch Production</strong>: Managed post-launch production, update pipelines, and milestone delivery for a major international IP across multiple console platforms and Steam.',
+        'project_bratz_info2':'<strong>Stakeholder Management</strong>: Led production meetings and established direct communication channels with external clients, publishers, and stakeholders.',
+        'project_bratz_updates':'<strong>Task Execution & Blocker Removal</strong>: Achieved 100% of project objectives within strict deadlines by proactively managing task backlogs, removing daily technical/creative blockers, and conducting feature testing.',
+        'project_bratz_nda': '<strong>Further details are subject to a Non-Disclosure Agreement (NDA).</strong>',
 
         'experience_personal': 'Personal projects',
 
