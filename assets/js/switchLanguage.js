@@ -222,7 +222,7 @@ const translations = {
         'bratz_Team Size':'<strong>Tamaño del equipo:</strong>8',
         'bratz_Engine':'<strong>Motor:</strong> Unity (C#)',
         'bratz_role': '<strong>Rol:</strong>Post-Launch Producer',
-        'project_bratz_info1':'<strong>Producción Post-Lanzamiento</strong>: Gestioné la producción post-lanzamiento, los pipelines de actualización y la entrega de hitos para una IP internacional de gran escala en múltiples consolas y Steam.Producción Post-Lanzamiento: Gestioné la producción post-lanzamiento, los pipelines de actualización y la entrega de hitos para una IP internacional de gran escala en múltiples consolas y Steam.',
+        'project_bratz_info1':'<strong>Producción Post-Lanzamiento</strong>: Gestioné la producción post-lanzamiento, los pipelines de actualización y la entrega de hitos para una IP internacional de gran escala en múltiples consolas y Steam.',
         'project_bratz_info2':'<strong>Gestión de Stakeholders</strong>: Lideré reuniones de seguimiento de producción y mantuve canales directos de comunicación con clientes externos, publishers y partes interesadas.',
         'project_bratz_updates':'<strong>Ejecución y Resolución de Bloqueos</strong>: Cumplí el 100% de los objetivos del proyecto en plazos estrictos mediante la gestión proactiva del backlog, la eliminación diaria de bloqueos técnicos/creativos y el testing de funcionalidades.',
         'project_bratz_nda': '<strong>Los demás detalles del proyecto están sujetos a un acuerdo de confidencialidad (NDA).</strong>',
